@@ -12,6 +12,7 @@ public class Tester {
 		
 		System.out.println("Bike body :: "+ bike.getBody());
 		System.out.println("Bike body :: "+ bike.getBody());
+		System.out.println("Bike body :: "+ bike.getBody());
 		
 	}
 }
