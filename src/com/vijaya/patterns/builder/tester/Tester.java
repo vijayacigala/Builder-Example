@@ -10,7 +10,6 @@ public class Tester {
 		
 		Vehicle bike	=	new Vehicle.Builder().setBody("Fibre matte body!").build();
 		
-		
 		System.out.println("Bike body :: "+ bike.getBody());
 		System.out.println("Bike body :: "+ bike.getBody());
 		
