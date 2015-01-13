@@ -1,8 +1,5 @@
 package com.vijaya.patterns.builder.tester;
 
-import java.util.HashMap;
-import java.util.Map;
-import java.util.Map.Entry;
 
 import com.vijaya.patterns.builder.Vehicle;
 
